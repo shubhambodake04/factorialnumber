@@ -1,0 +1,12 @@
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\bin\Debug\netcoreapp3.1\FactorialUsingNormal.exe
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\bin\Debug\netcoreapp3.1\FactorialUsingNormal.deps.json
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\bin\Debug\netcoreapp3.1\FactorialUsingNormal.runtimeconfig.json
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\bin\Debug\netcoreapp3.1\FactorialUsingNormal.runtimeconfig.dev.json
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\bin\Debug\netcoreapp3.1\FactorialUsingNormal.dll
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\bin\Debug\netcoreapp3.1\FactorialUsingNormal.pdb
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\obj\Debug\netcoreapp3.1\FactorialUsingNormal.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\obj\Debug\netcoreapp3.1\FactorialUsingNormal.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\obj\Debug\netcoreapp3.1\FactorialUsingNormal.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\obj\Debug\netcoreapp3.1\FactorialUsingNormal.dll
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\obj\Debug\netcoreapp3.1\FactorialUsingNormal.pdb
+C:\Users\Shubham\source\repos\Factorial\FactorialUsingNormal\obj\Debug\netcoreapp3.1\FactorialUsingNormal.genruntimeconfig.cache
