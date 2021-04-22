@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shubham\\source\\repos\\Factorial\\Factorial\\Factorial.csproj",
+      "projectUniqueName": "C:\\Users\\Shubham\\source\\repos\\factorialnumber\\Factorial\\Factorial\\Factorial.csproj",
       "projectName": "Factorial",
-      "projectPath": "C:\\Users\\Shubham\\source\\repos\\Factorial\\Factorial\\Factorial.csproj",
+      "projectPath": "C:\\Users\\Shubham\\source\\repos\\factorialnumber\\Factorial\\Factorial\\Factorial.csproj",
       "packagesPath": "C:\\Users\\Shubham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shubham\\source\\repos\\Factorial\\Factorial\\obj\\",
+      "outputPath": "C:\\Users\\Shubham\\source\\repos\\factorialnumber\\Factorial\\Factorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shubham\\AppData\\Roaming\\NuGet\\NuGet.Config",

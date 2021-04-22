@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shubham\\source\\repos\\Factorial\\FactorialUsingNormal\\FactorialUsingNormal.csproj": {}
+    "C:\\Users\\Shubham\\source\\repos\\factorialnumber\\Factorial\\FactorialUsingNormal\\FactorialUsingNormal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shubham\\source\\repos\\Factorial\\FactorialUsingNormal\\FactorialUsingNormal.csproj": {
+    "C:\\Users\\Shubham\\source\\repos\\factorialnumber\\Factorial\\FactorialUsingNormal\\FactorialUsingNormal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shubham\\source\\repos\\Factorial\\FactorialUsingNormal\\FactorialUsingNormal.csproj",
+        "projectUniqueName": "C:\\Users\\Shubham\\source\\repos\\factorialnumber\\Factorial\\FactorialUsingNormal\\FactorialUsingNormal.csproj",
         "projectName": "FactorialUsingNormal",
-        "projectPath": "C:\\Users\\Shubham\\source\\repos\\Factorial\\FactorialUsingNormal\\FactorialUsingNormal.csproj",
+        "projectPath": "C:\\Users\\Shubham\\source\\repos\\factorialnumber\\Factorial\\FactorialUsingNormal\\FactorialUsingNormal.csproj",
         "packagesPath": "C:\\Users\\Shubham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shubham\\source\\repos\\Factorial\\FactorialUsingNormal\\obj\\",
+        "outputPath": "C:\\Users\\Shubham\\source\\repos\\factorialnumber\\Factorial\\FactorialUsingNormal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shubham\\AppData\\Roaming\\NuGet\\NuGet.Config",
